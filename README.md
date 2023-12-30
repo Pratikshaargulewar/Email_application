@@ -1,2 +1,3 @@
 # Email_application
 This is Email Generator Application in java 
+In this Application the task to generate email accounts for new hires....
